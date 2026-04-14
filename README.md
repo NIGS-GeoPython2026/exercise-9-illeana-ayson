@@ -10,7 +10,7 @@ All three of these cases are frequently used, and can even be calculated in comm
 
 ## Completing the exercise
 
-- **Exercise 9 is due by the start of the next lesson (on 12 April 2025)**.
+- **Exercise 9 is due by the start of the next lesson (on 21 April 2026)**.
 - **Remember to save and commit your changes locally, and upload your changes to GitHub after each major change**!
 
 ## Where to find help
